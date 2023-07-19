@@ -1,45 +1,32 @@
-Spectral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Data Scientist
+
+### Technical Skills: SQL, Python, Tableau, Looker, dbt, git, Jupyter Notebook, HEX
 
 
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
+[![LinkedIn](assets/img/linkedin_logo.jpg)](https://www.linkedin.com/in/chloe-lubin/)
 
-- It's built with components from my Responsive Tools project.
+[![Medium](assets/img/linkedin_logo.jpg)](https://www.linkedin.com/in/chloe-lubin/)
 
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
+## Experience
 
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
+**Senior Data Analyst @ Fivetran (_February_ 2022 - Present_)**
+* Led project to remodel our sales compensation data using dbt, helping ~400 sales people understand their performance to sales quotas
 
-  (* = still entirely optional if you prefer vanilla CSS :)
+* Produced 
 
-- A ton of other stuff.
+**Data Analyst @ First Republic Bank (_August_ 2020 - _January_ 2022)**
+ 
+* Co-authored memo to enhance the bank's understanding of its loan portfolio, partnering with the Chief Credit Officer and getting buy in from the Board of Directors
+* Conceived & implemented bot in partnership with Engineering team to automate downloads from loan document repository, saving 20 business days/year. Ramped up 30+ people in Credit Administration department.
+* Worked with Data Governance to (1) improve the Bank's data quality; and (2) contribute to the Bank's data catalog to make metadata information available to business users
+* Onboarded & mentored 2 data analysts
 
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
+**Account Risk Management Analyst @ Federal Reserve Bank of New York (_January_ 2018 - _October_ 2019)**
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+* Analyzed & reported fraudulent transactions of foreign central banks, using compliance databases & historical customer data
+* Prepared account profiles of foreign central banks by performing analyses in Excel & providing summaries of compliance concerns
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+## Education
 
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Projects
