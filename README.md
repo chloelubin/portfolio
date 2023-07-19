@@ -2,10 +2,9 @@
 
 ### Technical Skills: SQL, Python, Tableau, Looker, dbt, Git, Jupyter Notebook, HEX
 
+<a href="https://www.linkedin.com/in/chloe-lubin/"><img src="assets/img/linkedin_logo.png" alt="LinkedIn" width="200" height="200" />
 
-[![LinkedIn](assets/img/linkedin_logo.png)](https://www.linkedin.com/in/chloe-lubin/)
-
-[![Medium](assets/img/medium_logo.png)](https://www.linkedin.com/in/chloe-lubin/)
+<a href="https://chloe-lubin.medium.com/"><img src="assets/img/medium_logo.png" alt="Medium" width="200" height="200" />
 
 ## Experience
 
