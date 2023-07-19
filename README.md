@@ -1,16 +1,17 @@
 # Data Scientist
 
-### Technical Skills: SQL, Python, Tableau, Looker, dbt, git, Jupyter Notebook, HEX
+### Technical Skills: SQL, Python, Tableau, Looker, dbt, Git, Jupyter Notebook, HEX
 
 
-[![LinkedIn](assets/img/linkedin_logo.jpg)](https://www.linkedin.com/in/chloe-lubin/)
+[![LinkedIn](assets/img/linkedin_logo.png)](https://www.linkedin.com/in/chloe-lubin/)
 
-[![Medium](assets/img/linkedin_logo.jpg)](https://www.linkedin.com/in/chloe-lubin/)
+[![Medium](assets/img/medium_logo.png)](https://www.linkedin.com/in/chloe-lubin/)
 
 ## Experience
 
 **Senior Data Analyst @ Fivetran (_February_ 2022 - Present_)**
-* Led project to remodel our sales compensation data using dbt, helping ~400 sales people understand their performance to sales quotas
+* Led project to remodel our sales compensation data using dbt, helping ~400 sales people understand their performance against quotas
+* 
 
 * Produced 
 
