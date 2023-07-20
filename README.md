@@ -2,10 +2,12 @@
 
 ### Technical Skills: SQL, Python, Tableau, Looker, dbt, Git, Jupyter Notebook, HEX
 
-<p float="left">
-  <a href="https://www.linkedin.com/in/chloe-lubin/"><img src="assets/img/linkedin_logo.png" alt="LinkedIn" width="40" height="40" />
-  <a href="https://chloe-lubin.medium.com/"><img src="assets/img/medium_logo.png" alt="Medium" width="40" height="40" />
-</p>
+<div>
+  <p float="left">
+    <a href="https://www.linkedin.com/in/chloe-lubin/"><img src="assets/img/linkedin_logo.png" alt="LinkedIn" width="40" height="40" />
+    <a href="https://chloe-lubin.medium.com/"><img src="assets/img/medium_logo.png" alt="Medium" width="40" height="40" />
+  </p>
+</div>
 
 ## Experience
 **Senior Data Analyst @ Fivetran (_February 2022_ - _Present_)**
