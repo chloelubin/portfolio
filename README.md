@@ -33,3 +33,11 @@
 * Udemy, [SQL Bootcamp](https://www.udemy.com/certificate/UC-7ZN6YVPU/) (_July 2019_)
 
 ## Projects
+### [Project_1](https://github.com/chloelubin/project_1)
+* [placeholder]
+
+### [Project_2](https://github.com/chloelubin/project_2)
+* [placeholder]
+
+### [Project_3](https://github.com/chloelubin/project_3)
+* [placeholder]
