@@ -19,7 +19,7 @@
 * Prepared account profiles of foreign central banks by performing analyses in Excel & providing summaries of compliance concerns
 
 ## Education
-* [Placeholder]
+* [Placeholder] |
 * Bachelor's, International Relations and Chinese Studies | University of Richmond (_May 2017_)
 
 ## Certifications
