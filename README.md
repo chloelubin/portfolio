@@ -29,8 +29,10 @@
 * Udacity, [Data Analyst Nanodegree Program](https://graduation.udacity.com/confirm/NDPFPUCE) (_June 2020_)
 * Udemy, [SQL Bootcamp](https://www.udemy.com/certificate/UC-7ZN6YVPU/) (_July 2019_)
 
+## Articles
+* [placeholder]
 ## Projects
-### [Project_1](https://github.com/chloelubin/project_1)
+### [Carbon Price Forecasting](https://github.com/chloelubin/carbon_price_forecasting)
 * [placeholder]
 
 ### [Project_2](https://github.com/chloelubin/project_2)
